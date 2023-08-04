@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Karthikeyan Paramasivam.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on ...
 - ✨ I have a basic sound knoweledge in the following
 -   * HTML
     * CSS
