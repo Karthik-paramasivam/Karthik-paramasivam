@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthikeyan Paramasivam.
 - 👀 I’m interested in Web development.
 - 🌱 I had learned Full stack development.
-- ✨ I had working experience as sharepoint developer.
+- ✨ I had work experience as sharepoint developer.
 - ✨ I have a basic knowledge in the following
 -   * HTML
     * CSS
